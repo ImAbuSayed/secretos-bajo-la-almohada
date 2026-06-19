@@ -1,6 +1,6 @@
 # License
 
-**Secretos bajo la almohada**
+**Secretos bajo la almohada, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

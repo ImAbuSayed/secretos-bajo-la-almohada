@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Secretos bajo la almohada, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Secretos bajo la almohada, Vol. 2** (secretos-bajo-la-almohada-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T21:47:02.313333 | `v1` | `8fae6c57bb89ef57ad9a2dd50c0b8ff295db513b4203d3fde6467e7393907679` | `7bb9fef17ed70bb656a0faa787380e18cd93ed162799194fd1090e61c45dec13` | `2026-06-19_secretos-bajo-la-almohada-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

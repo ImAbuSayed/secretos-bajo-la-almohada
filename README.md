@@ -1,4 +1,4 @@
-# Secretos bajo la almohada
+# Secretos bajo la almohada, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Secretos bajo la almohada |
+| **Title** | Secretos bajo la almohada, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-bajo-la-almohada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Secretos bajo la almohada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-bajo-la-almohada/) |
+| **Get License** | [License this song: Secretos bajo la almohada, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-bajo-la-almohada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero perderme en tu mirada de cristal
+> Esta noche no hay reglas, puro instinto animal
+> Bailando suave mientras la ciudad se apaga
+> Guardando secretos, baby, bajo la almohada
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8fae6c57bb89ef57ad9a2dd50c0b8ff295db513b4203d3fde6467e7393907679` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
